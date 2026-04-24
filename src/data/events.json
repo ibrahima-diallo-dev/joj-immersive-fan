@@ -1,0 +1,14 @@
+[
+  {
+    "id": "1",
+    "title": "Visite guidée de la capitale",
+    "date": "2026-05-10",
+    "location": "Paris"
+  },
+  {
+    "id": "2",
+    "title": "Atelier VR immersif",
+    "date": "2026-06-15",
+    "location": "Studio 3D"
+  }
+]
